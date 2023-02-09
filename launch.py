@@ -13,7 +13,7 @@ winurl = "https://unohash.creepercreep.fr/agents.php?download=2"
 me_os = os.name == "nt"
 
 def run():
-    print("\nPour arreter à tout moment le script, faites Ctrl+C.\n")
+    print("\nPour arreter a tout moment le script, faites Ctrl+C.\n")
     print("[*]Lancement...")
 
     if me_os:
